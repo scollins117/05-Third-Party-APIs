@@ -19,4 +19,8 @@ Displays the current date and time using moment.js
 Time blocks displayed for 9 to 5
 Time blocks are color coded comparing id hour to moment. js
 Data can be added to time blocks and saved to local storage and persist after refreshing
-Clear day button
+Clear day button <br />
+Link to deployed page: <br />
+https://scollins117.github.io/05-Third-Party-APIs/ <br/>
+Link to Github Respository <br/>
+https://github.com/scollins117/05-Third-Party-APIs
